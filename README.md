@@ -13,8 +13,9 @@ OTP
 ADMIN DASHBOARD
 ![Screenshot 2025-04-30 095540](https://github.com/user-attachments/assets/81b6e7f9-9d7f-49b2-bbaf-37f274a0f53d)
 
-ADMIN BOOK SLIDEBAR
-![Screenshot 2025-04-30 095540](https://github.com/user-attachments/assets/367ca6de-49f7-47d0-9053-5d58eb3059ed)
+ADMIN ALL BOOK
+![Screenshot 2025-04-30 095552](https://github.com/user-attachments/assets/359d3792-de1e-464e-ad41-d72e549c0960)
+
 
 ADMIN CATALOG BORROWED BOOKS
 ![Screenshot 2025-04-30 095558](https://github.com/user-attachments/assets/ea7661ea-993b-4d23-99a1-bb455fe7ea46)
